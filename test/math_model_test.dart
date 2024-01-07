@@ -1,8 +1,8 @@
 import 'package:async/async.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:numbers/numbers.dart';
-import 'package:numbers/src/pages/math/math_model.dart';
+import 'package:thgroll/numbers.dart';
+import 'package:thgroll/src/pages/math/math_model.dart';
 
 void main() {
   test('load', () async {
